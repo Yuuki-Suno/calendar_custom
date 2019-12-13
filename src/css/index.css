@@ -1,0 +1,10 @@
+.calendar-table{
+	width: 1000px;
+	height: 700px;
+	background-color: LightGreen;
+	text-align: start;
+}
+
+.calendar-header{
+	width: 500px;
+}
